@@ -1,0 +1,14 @@
+# comments with hash symbol
+J
+ROT
+#SIM
+#UC
+UNI
+ZOB
+CRC
+FNV
+ONE
+WANG
+JJ
+DJB
+DJB_S

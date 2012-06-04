@@ -1,0 +1,13 @@
+1. To run the intepreter:
+
+   ocaml unix.cma benchmark.ml
+
+2. To run the bytecode compiler:
+
+   ocamlc unix.cma benchmark.ml
+   ./a.out
+
+3. To run the native code compiler:
+
+   ocamlopt unix.cmxa benchmark.ml
+   ./a.out
